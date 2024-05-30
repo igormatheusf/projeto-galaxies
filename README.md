@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto Galaxies foi criado para aplicar os conceitos do Display Grip em HTML e CSS, sendo possível visualizar cards com informações sobre as maiores galáxias existentes.
+O Projeto Galaxies foi criado para aplicar os conceitos do Display Grid em HTML e CSS, sendo possível visualizar cards com informações sobre as maiores galáxias existentes.
 
 
 ## 🔖 Layout
